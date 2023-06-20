@@ -1,7 +1,7 @@
 <template lang="">
     <div>
         <h2>게시물 작성</h2>
-        <!-- 디버그 -->
+   
         <board-register-form @submit="onSubmit"/>
     </div>
 </template>
