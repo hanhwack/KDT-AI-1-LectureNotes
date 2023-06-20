@@ -17,6 +17,7 @@
   },
   "dependencies": {
     "@babel/runtime": "^7.22.5",
+    "axios": "^1.4.0",
     "vuex": "^4.1.0"
   }
 }
